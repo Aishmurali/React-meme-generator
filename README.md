@@ -1,5 +1,4 @@
-Local:            http://localhost:3000
-  On Your Network:  http://192.168.43.249:3000
+http://localhost:3000/
 
 
 # Getting Started with Create React App
