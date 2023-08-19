@@ -1,3 +1,8 @@
+![image](https://github.com/Aishmurali/React-meme-generator/assets/125116839/47811826-75c5-4419-b114-01e9f52a727d)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
