@@ -1,14 +1,7 @@
 ![Image1](https://github.com/Aishmurali/React-meme-generator/assets/125116839/1a8d8143-128a-4b6d-9222-64c7f518ed1c)
-
-
-
-
-
-
-
-
-
-
+![Image2](https://github.com/Aishmurali/React-meme-generator/assets/125116839/5b0d52f9-f6c0-4b85-9727-f64d443fdb93)
+![Image3](https://github.com/Aishmurali/React-meme-generator/assets/125116839/f7d08fd6-01e8-4bcd-9280-948c1bb93d20)
+![Image4](https://github.com/Aishmurali/React-meme-generator/assets/125116839/38ab478d-a388-4fcc-8716-86c4e6a3dff0)
 
 # Getting Started with Create React App
 
